@@ -1,1 +1,2 @@
-# goprojects_email-verifier
+# Email Verifier
+Just an email verifier, nothing spesial :)
